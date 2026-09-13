@@ -1,0 +1,11 @@
+{
+  "name": "RCCM 鋼構造及びコンクリート オフライン問題集",
+  "short_name": "RCCM鋼コン",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f5f8",
+  "theme_color": "#13213c",
+  "lang": "ja",
+  "description": "RCCM 鋼構造及びコンクリート オフライン問題集"
+}
